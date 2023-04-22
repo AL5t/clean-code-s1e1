@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.description .description-link {
+.description-link {
   font-family: fantasy, cursive;
 }
 
@@ -50,7 +50,8 @@
   list-style: none;
 }
 
-.input,.button {
+.input,
+.button {
   outline: none;
 }
 
